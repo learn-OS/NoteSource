@@ -21,6 +21,7 @@ http://dev.chromium.org/system/app/pages/sitemap/hierarchy
 
 http://www.chromium.org/developers/how-tos/build-instructions-windows
 
+http://www.chromium.org/getting-involved/dev-channel
 
 版本迭代日程表
 ===============
@@ -58,6 +59,7 @@ About The FireFox
 =====
 http://sunlitjiang.iteye.com/
 
+[使用Javascript和DOM Interfaces来处理HTM](https://developer.mozilla.org/zh-CN/docs/preview-wiki-content)
 
 
 
@@ -69,7 +71,11 @@ http://sunlitjiang.iteye.com/
 
 
 
-
+系统
+=================
+[系统研究](http://blog.csdn.net/wwl33695/article/category/1279070)
+[系统内核区别](http://blog.csdn.net/wwl33695/article/details/8172938)
+[系统内核区别](http://bbs.chinaunix.net/thread-1940245-1-1.html)
 
 
 
