@@ -55,9 +55,15 @@ WebKit研究
 [WebKit研究](http://blog.csdn.net/HorkyChen/article/category/1145418/1)
 
 
+###chrome 开发者管理模式
+
+chrome://view-http-cache/
+chrome://net-internals/
+chrome://flags/
+
 
 浏览器结构分析
-
+========================
 
 
 [百度：浏览器结构分析](http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8%E7%BB%93%E6%9E%84%E5%88%86%E6%9E%90&rsv_spt=1&issp=1&f=8&rsv_bp=0&rsv_idx=2&ie=utf-8&tn=baiduhome_pg)
@@ -108,7 +114,9 @@ http://sunlitjiang.iteye.com/
 
 
 
-
+github资源推荐
+==============
+[github资源](http://blog.csdn.net/wwl33695/article/details/9185381)
 
 
 
