@@ -57,10 +57,10 @@ WebKit研究
 
 ###chrome 开发者管理模式
 
-chrome://view-http-cache/
-chrome://net-internals/
-chrome://histograms/DNS
-chrome://flags/
+chrome://view-http-cache/  
+chrome://net-internals/  
+chrome://histograms/DNS  
+chrome://flags/  
 
 
 浏览器结构分析
