@@ -50,6 +50,34 @@ http://git.chromium.org/gitweb/
 
 
 
+WebKit研究
+=======================
+[WebKit研究](http://blog.csdn.net/HorkyChen/article/category/1145418/1)
+
+
+
+浏览器结构分析
+
+
+
+[百度：浏览器结构分析](http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8%E7%BB%93%E6%9E%84%E5%88%86%E6%9E%90&rsv_spt=1&issp=1&f=8&rsv_bp=0&rsv_idx=2&ie=utf-8&tn=baiduhome_pg)
+
+[前端文摘：深入解析浏览器的幕后工作原理](http://www.cnblogs.com/lhb25/p/how-browsers-work.html)
+
+http://www.laruence.com/2009/05/14/803.html
+
+http://blog.sina.com.cn/s/blog_93dc666c01019zkl.html
+
+
+http://wenku.baidu.com/link?url=HJkYSn2pXGAmL-p_sVqRQr3fcnOGHsBjt8jytLh29C2SNG5z0zvoew9UlC_GB1yzQ-rUT21nockwzPeLvX5qxxJRkiUma0gLKnRw6Xtrhuu
+
+
+
+[ 开源视频图像处理库](http://blog.csdn.net/wwl33695/article/details/17754135)
+
+[](http://blog.csdn.net/wwl33695/article/category/1243208)
+
+
 
 
 About The FireFox
