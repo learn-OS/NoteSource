@@ -5,7 +5,8 @@ NoteSource
 
 
 
-
+About The Chrome
+===========================
 
 
 http://www.chromium.org/
@@ -44,4 +45,44 @@ http://git.chromium.org/chromium/src.git
 google chrome Web 托管地址
 ===============
 http://git.chromium.org/gitweb/
+
+
+
+
+
+
+About The FireFox
+===========================
+
+博客
+=====
+http://sunlitjiang.iteye.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
