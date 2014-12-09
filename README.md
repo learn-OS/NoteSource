@@ -60,8 +60,8 @@ WebKit研究
 chrome://view-http-cache/  
 chrome://net-internals/  
 chrome://histograms/DNS  
-chrome://flags/  
-
+chrome://flags/   
+chrome://about/ 
 
 浏览器结构分析
 ========================
