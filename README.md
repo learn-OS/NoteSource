@@ -129,3 +129,159 @@ github资源推荐
 苹果开源
 ======================
 http://www.opensource.apple.com
+
+
+
+
+
+
+未整理资源
+==============
+
+--------------------------------------------------
+#Begin-----------------------------------------
+--------------------------------------------------
+
+
+	WebKit研究
+http://blog.csdn.net/HorkyChen/article/category/1145418/1
+
+	Google Chrome中的高性能网络(一)
+http://blog.csdn.net/horkychen/article/details/9708103
+
+ 	Google Chrome中的高性能网络(二)
+http://blog.csdn.net/horkychen/article/details/10421523
+ 
+ 	Google Chrome中的高性能网络 (三)
+http://blog.csdn.net/horkychen/article/details/10878489
+
+
+	开发者应当了解的WebKit知识
+http://blog.csdn.net/horkychen/article/details/8629976
+
+
+	[WebKit]WebCore之页面加载的设计与实现(一)
+http://blog.csdn.net/horkychen/article/details/8888428
+
+
+	[WebKit]WebCore之页面加载的设计与实现(二)
+http://blog.csdn.net/horkychen/article/details/18927393
+
+	[WebKit]WebCore之页面加载的设计与实现(三)
+http://blog.csdn.net/horkychen/article/details/18955041
+
+	UML图档下载地址(GitHub):
+https://github.com/HorkyChen/WebKit-Documentation
+
+	Android webkit & chromium for Android
+http://blog.csdn.net/jaylinzhou?viewmode=contents
+
+	chrome
+http://blog.csdn.net/qq295445028/article/category/1203515
+
+http://blog.csdn.net/jaylinzhou?viewmode=contents
+
+http://blog.csdn.net/milado_nju?viewmode=contents
+
+http://blog.csdn.net/hxwwf?viewmode=contents
+
+http://blog.csdn.net/jaylinzhou?viewmode=contents
+
+http://blog.csdn.net/optman/article/details/4974054
+
+http://blog.csdn.net/bertzhang/article/details/7083846
+http://blog.csdn.net/bertzhang/article/list/3
+
+http://blog.csdn.net/ustcxiangchun?viewmode=contents
+http://blog.csdn.net/qq295445028?viewmode=contents
+http://blog.csdn.net/qq295445028/article/details/16903031
+http://blog.csdn.net/qq295445028/article/category/1203515
+
+http://blog.csdn.net/lizzy115/article/details/16979621
+
+http://blog.csdn.net/jokers_i?viewmode=contents
+http://blog.csdn.net/milado_nju?viewmode=contents
+http://blog.csdn.net/jaylinzhou?viewmode=contents
+
+
+
+
+
+
+
+	Android 系统启动
+http://blog.csdn.net/ldh_123456/article/details/7176478
+http://blog.csdn.net/qikaibinglan/article/details/6128675
+http://blog.csdn.net/lin364812726/article/details/18764919
+http://blog.csdn.net/vrix/article/details/4538940
+http://blog.csdn.net/bd_zengxinxin/article/details/7838303
+http://blog.csdn.net/bobochina/article/details/7412911
+http://blog.csdn.net/Dybinx/article/details/7348732
+http://blog.csdn.net/shadow_dance/article/details/8874691
+http://blog.csdn.net/fervor_heart/article/details/7798666
+http://blog.csdn.net/zhengmeifu/article/details/10117769
+http://blog.csdn.net/zhengmeifu/article/details/10178095
+
+
+http://blog.csdn.net/zhudaozhuan/article/details/7424632
+
+	good
+http://blog.csdn.net/yicao821/article/details/6859332
+http://blog.csdn.net/yicao821/article/details/6893752
+http://blog.csdn.net/yicao821/article/details/6859332
+
+
+
+
+
+
+ 	一个打通jni，java framework，application三层的练习
+http://blog.csdn.net/jimbo_lee/article/details/25366833
+http://blog.csdn.net/jiangshide/article/details/6993133
+
+
+
+
+
+
+	Android 基于S3c6410触摸屏驱动分析（一）
+http://blog.csdn.net/Leichelle/article/details/7563349
+
+
+
+	Android 系统编译
+http://blog.csdn.net/jiangshide/article/details/6987284
+http://blog.csdn.net/dybinx/article/details/7353079
+
+
+
+
+
+	Android ANR深入分析
+
+http://blog.csdn.net/androidwifi/article/details/8152196
+http://blog.csdn.net/androidwifi/article/details/8152171
+http://blog.csdn.net/androidwifi/article/details/8142150
+
+
+	Android 内存溢出
+http://blog.csdn.net/androidwifi/article/details/18768995
+
+	mac/ios
+
+http://blog.csdn.net/horkychen/article/category/513788
+
+
+	[Mac OS/iOS]反汇编工具Hopper分析Crash Log
+http://blog.csdn.net/horkychen/article/details/8284928
+
+
+	Android 系统分析
+http://blog.csdn.net/blueice8601/article/details/5870171
+
+
+
+
+--------------------------------------------------
+#End-----------------------------------------
+--------------------------------------------------
